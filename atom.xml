@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-12-27T05:08:06.021Z</updated>
+  <updated>2023-12-27T11:57:50.523Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>诞生</title>
+    <link href="http://example.com/undefined/3d0da172.html"/>
+    <id>http://example.com/undefined/3d0da172.html</id>
+    <published>2023-12-27T11:35:40.000Z</published>
+    <updated>2023-12-27T11:57:50.523Z</updated>
+    
+    <content type="html"><![CDATA[<p>临近考试，不想复习，为了逃避学习，并且心血来潮，为建立了这个属于我的小屋。皇天不负有心人。终于成功，虽然它还很简陋，但我还是会对它缝缝补补，最后，我想说，我真他妈的是个天才</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;临近考试，不想复习，为了逃避学习，并且心血来潮，为建立了这个属于我的小屋。皇天不负有心人。终于成功，虽然它还很简陋，但我还是会对它缝缝补补，最后，我想说，我真他妈的是个天才&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
